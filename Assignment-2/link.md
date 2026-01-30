@@ -20,48 +20,46 @@ This profile serves as the repository where all blogs are listed.
 👉 https://network-understanding.hashnode.dev/dns-record-types-explained 
 
 ### 2. Getting Started with cURL  
-👉 https://your-blog-link-2  
+👉 https://network-understanding.hashnode.dev/getting-started-with-curl-beginner-friendly-guide 
 
 ### 3. Git for Beginners: Basics and Essential Commands  
-👉 https://your-blog-link-3  
+👉 https://git-basic-commands.hashnode.dev/git-for-beginners-basics-and-essential-commands 
 
 ### 4. How DNS Resolution Works  
-👉 https://your-blog-link-4  
+👉 https://network-understanding.hashnode.dev/how-dns-resolution-works 
 
 ### 5. Inside Git: How It Works and the Role of the `.git` Folder  
-👉 https://your-blog-link-5  
+👉 https://git-basic-commands.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder
 
 ### 6. Why Version Control Exists: The Pendrive Problem  
-👉 https://your-blog-link-6  
+👉 https://why-vcs.hashnode.dev/why-version-control-exists-the-pendrive-problem 
 
 ### 7. Understanding Network Devices  
-👉 https://your-blog-link-7  
+👉 https://network-understanding.hashnode.dev/understanding-network-devices  
 
 ### 8. TCP vs UDP: When to Use What, and How TCP Relates to HTTP  
-👉 https://your-blog-link-8  
+👉 https://network-understanding.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http  
 
 ### 9. TCP Working: 3-Way Handshake & Reliable Communication  
-👉 https://your-blog-link-9  
+👉 https://network-understanding.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication 
 
 ### 10. How a Browser Works: A Beginner-Friendly Guide to Browser Internals  
-👉 https://your-blog-link-10  
+👉 https://browserunderstanding.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals 
 
 ### 11. Understanding HTML Tags and Elements  
-👉 https://your-blog-link-11  
+👉 https://webfundamentals.hashnode.dev/understanding-html-tags-and-elements 
 
 ### 12. CSS Selectors 101: Targeting Elements with Precision  
-👉 https://your-blog-link-12  
+👉 https://webfundamentals.hashnode.dev/css-selectors-101-targeting-elements-with-precision  
 
 ### 13. Emmet for HTML: A Beginner’s Guide to Writing Faster Markup  
-👉 https://your-blog-link-13  
+👉 https://webfundamentals.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup 
 
 ---
 
 ## 📊 Submission Status
 
-- **Live:** 13  
-- **Upcoming:** 0  
-- **Past:** 0  
+- **Live:** 13
 
 ---
 
