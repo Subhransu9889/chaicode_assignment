@@ -29,7 +29,8 @@ This assignment recreates the Cursor marketing/landing page layout with a focus 
 6. `#D6D6D6` / `#E5E5E5` / `#9A9A9A` (footer text tones)
 
 **Screenshots**
-![Desktop Full Page](/header.png)
-![Features Section](/testimonials.png)
-![Footer](/footer.png)
+
+![Desktop Full Page](/Assignment-3/App%20Icons/PNG/header.png)
+![Features Section](/Assignment-3/App%20Icons/PNG/testimonials.png)
+![Footer](/Assignment-3/App%20Icons/PNG/footer.png)
 ```
