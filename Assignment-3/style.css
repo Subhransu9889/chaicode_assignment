@@ -21,8 +21,11 @@ body{
 }
 
 header{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: rgb(19, 18, 11);
     padding: 12px 20px 12px 20px;
-    /* padding-top: 12px; */
     font-size: 16px;
     line-height: 18px;
 }
@@ -274,19 +277,18 @@ header{
     padding: 16px 18px 18px;
     display: grid;
     gap: 32px;
-    grid-template-rows: 310px 310px;
-    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .card{
     height: 309px;
-    width: 320px;
+    width: 380px;
     background: var(--teriary-color);
     padding: 15px 18px 18px;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    align-items: start;
     border-radius: 12px;
     gap: 16px;
 }
@@ -529,7 +531,7 @@ header{
   border: none;
   color: #d6d6d6;
   border-radius: 999px;
-  padding: 8px 10px;
+  padding: 4px 6px;
   cursor: pointer;
   font-size: 14px;
 }
@@ -545,6 +547,11 @@ header{
   display: flex;
   align-items: center;
   gap: 6px;
+}
+
+.footbg{
+    background: var(--teriary-color);
+    border: 1px solid var(--teriary-color);
 }
 
 .icon-btn:hover,
@@ -572,5 +579,4 @@ header{
         height: 32px;
     }
 }
-
 
